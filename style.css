@@ -100,7 +100,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: red;
+  background-color: var(--text-white);
   padding: 20px;
   background-image: url("./images/main-image.png");
   background-size: cover;
